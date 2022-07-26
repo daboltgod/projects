@@ -39,3 +39,17 @@ List of all my current projects and completed projects!
 ### Skyzap Website
 
 ### Vibes Website
+
+
+
+## Always Active Project  
+
+### Slapper Plugin (PMMP)
+[Link](https://poggit.pmmp.io/ci/daboltgod/Slapper/~)  
+[Github](https://links.daboltgod.ml)  
+[Sponsor](https://scarcehost.uk)  
+
+### Vortex Systems Hosting  
+- Link Coming soon!  
+
+### More being released soon!  
